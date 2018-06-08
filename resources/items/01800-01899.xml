@@ -1157,5 +1157,5 @@
 		<set name="is_freightable" val="false" />
 		<set name="commissionItemType" val="MAJOR_CRAFTING_INGREDIENTS" />
 		<set name="is_stackable" val="true" />
-	</item>
+	</item>			
 </list>
